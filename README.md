@@ -23,7 +23,7 @@ Cara Menjalankan Website
 1. Install pnpm :
 npm install -g pnpm
 2. Clone Repository :
-https://github.com/ahmadsyafik/uas-web.git
+https://github.com/Reno-Aosp/uas-web.git
 cd uas-web
 3. Install Depedensi :
 npm install
